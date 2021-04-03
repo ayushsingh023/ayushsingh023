@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsingh023&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsingh023" /> </p>
 
+<p align="left"> <a href="https://twitter.com/ayushsi94720906" target="blank"><img src="https://img.shields.io/twitter/follow/ayushsi94720906?logo=twitter&style=for-the-badge" alt="ayushsi94720906" /></a> </p>
+
 - 🔭 I’m currently working on **Web Devlopment**
 
 - 🌱 I’m currently learning **node and express**
@@ -32,3 +34,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushsingh023&show_icons=true&locale=en&layout=compact" alt="ayushsingh023" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushsingh023&show_icons=true&locale=en" alt="ayushsingh023" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsingh023&" alt="ayushsingh023" /></p>
