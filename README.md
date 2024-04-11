@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **singhayush98765@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ayush-singh-4700451ab](https://www.linkedin.com/in/ayush-singh-4700451ab)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ayush-singh-4700451ab](https://www.linkedin.com/in/ayushsingh023/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
